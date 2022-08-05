@@ -1,0 +1,15 @@
+body{
+    background-color:skyblue;
+}
+hr{
+    border-width:5px;
+    border-style:none;
+    border-top-style: dotted;
+    border-color:blue;
+    height:0px;
+    width:12%;
+    
+}
+h1{
+    color: darkblue;
+}
